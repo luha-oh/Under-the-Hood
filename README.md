@@ -1,25 +1,23 @@
 # Under-the-Hood
 A journey to become a developer who can explain why.
 
-보이는 결과보다
-그 안의 원리와 사고를 이해하기 위한 기록.
+AI 없이도 설명할 수 있는 개발자가 되기 위한 기록.
 
----
+보이는 결과보다,
+그 안의 원리와 사고를 이해하고 싶다.
 
 ## Why
 
-AI의 도움으로 문제를 해결할 수는 있다.
+개발자로 일하고 있지만,
+AI와 검색에 의존하는 순간이 많았다.
 
-하지만
+문제를 해결할 수는 있지만,
+왜 그렇게 해결되는지 설명하는 데는 자신이 없었다.
 
-- 왜 그렇게 동작하는가?
-- AI 없이 설명할 수 있는가?
-- 폐쇄망에서도 스스로 해결할 수 있는가?
+그래서 다시 기초부터 시작한다.
 
-라는 질문에 답하기 위해
-기초부터 다시 시작한다.
-
----
+이번에는 외우지 않고,
+확실히 이해하면서.
 
 ## Learning Areas
 
@@ -32,13 +30,9 @@ AI의 도움으로 문제를 해결할 수는 있다.
 - Recommender System
 - ...
 
----
-
 ## Motto
 
-Make it work.
-
-Understand why.
-
+Make it work.  
+Understand why.  
 Explain clearly.
 
